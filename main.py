@@ -1,4 +1,4 @@
-import mytools as mt
+import MYTOOLS as mt
 
 
 print(f"Número pi com 4 casas decimais: {mt.pi_real(4)}")
